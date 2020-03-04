@@ -1,4 +1,4 @@
-# Coin-Stack-Detector
+# Vertical Coin Alignment Identifier
 Task - Identifies the coins which fall under a straight line and draws a line over them. 
 Algorithms - Kernel Density Estimation and OpenCV+ Python3.X
 CircleDetection -  OpenCv.HoughCircles() 
